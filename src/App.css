@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  background-color: orange;
+  color: black;
+  width: 100px;
+  height: 50px;
+  border-radius: 6px;
+}
+
+.Click{
+  background-color: red;
+  color: white;
+}
