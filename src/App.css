@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -48,4 +49,8 @@
 .Click{
   background-color: red;
   color: white;
+}
+
+.Counter{
+  height: 25vh;
 }
