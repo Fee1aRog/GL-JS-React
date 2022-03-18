@@ -5,6 +5,7 @@ export default function Counter({start, increase}) {
     
     const [number, setNumber] = useState(start || 0);
 
+    
     return(
         <div className="Counter">
             <h3>Counter</h3>
